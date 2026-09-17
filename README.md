@@ -15,3 +15,9 @@ python app.py
 ```
 
 Ce depot sera supprime apres la prise des captures d'ecran du cours.
+
+## Nouvelle fonctionnalite : suppression
+
+Ajout de supprimer_contact(carnet, nom) et de l'option
+"3. Supprimer un contact" dans le menu.
+
